@@ -4,3 +4,4 @@ All you need to do is set your `ID_MOODLE` and `PASSWD_MOODLE`.
 
 This bot is written in Python, without any use of ChatGPT—only reflection and Stack Overflow.
 
+You can downlaod all of the docs.
